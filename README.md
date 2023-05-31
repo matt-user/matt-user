@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt Auer
-- 👀 I’m interested in blockchains and web technology
-- 🌱 I’m currently learning how to develop applications on the Ethereum blockchain
+- 👀 I’m interested in blockchains, web technology, and machine learning.
+- 🌱 I’m currently learning how to develop applications on Fuel.
 - 💞️ I’m looking to collaborate on anything to do with blockchains
 - 📫 You can email me at mattauer at umich.edu
 
